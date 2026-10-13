@@ -46,7 +46,7 @@
 
     <h2> Codi font </h2>
 <?php
-    show_source(ej1.php);
+    show_source("ej1.php");
 ?>
 
 </body>
